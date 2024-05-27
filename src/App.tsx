@@ -1,6 +1,8 @@
+import LandingPage from "./components/LandingPage/LandingPage";
 import React from "react";
+
 const App = () => {
-    return <h1>Hello React</h1>;
+  return <LandingPage />;
 };
 
 export default App;
